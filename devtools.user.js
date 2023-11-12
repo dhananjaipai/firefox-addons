@@ -3,9 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Use Eruda to enable devTools for Android
-// @author       You
-// @match        *
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
+// @author       dhananjaipai
+// @match        *://*/*
+// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
 
